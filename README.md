@@ -1,3 +1,3 @@
 # CssOdev2
 ## 1998'de Google:
-<br>![home1](https://github.com/Dilan-Mazlum/CssOdev1/assets/73706556/a5715513-010d-4534-ac74-91ea667c5ce6)
+![home1](https://github.com/Dilan-Mazlum/CssOdev1/assets/73706556/bd1f618d-901b-4085-ba05-1a09c3b7f18f)
